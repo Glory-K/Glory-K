@@ -23,7 +23,7 @@
 - 단순 건수 비교가 아닌 해석 가능한 분석 구조 구성  
 [Repository](https://github.com/Glory-K/Daegu_Crime_Analysis)
 
-### SafePangPang
+### safe-travel-app-backend
 - 외부 안전 데이터를 서비스 목적에 맞게 구조화
 - 백엔드, DB 설계, RESTful API 개발 수행
 - 이질적인 데이터를 사용자 기능과 연결  
